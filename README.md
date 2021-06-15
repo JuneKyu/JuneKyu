@@ -1,14 +1,11 @@
-## Coding for a better world 😋
+## 😋 Coding for a better world 😋
 
 <hr>
 
-Hello, world! 👋
-
-I'm JuneKyu Park, and I want to research & develop user-friendly AI software that people want to use! 🤪
-
-Currently open for AI/ML research engineer, seeking a position in graduate position where I can develop my knowledge of Artificial Intelligence and Machine Learning.
-
-📨 Feel free to reach me! : idbluefish@gmail.com
+* 👋 Hello, world!
+* 🤪 I'm JuneKyu Park, and I want to research & develop user-friendly AI software that people want to use!
+* 🧑🏻‍💻 Currently open for AI/ML research engineer, seeking a position in graduate position where I can develop my knowledge of Artificial Intelligence and Machine Learning.
+* 📨 Feel free to reach me! : idbluefish@gmail.com
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=junekyu&show_icons=true"/>
