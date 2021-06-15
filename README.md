@@ -3,7 +3,7 @@
 <hr>
 
 * 👋 Hello, world!
-* 🤪 I'm JuneKyu Park, and I want to research & develop user-friendly AI software that people want to use!
+* 🤪 I'm JuneKyu Park, and I am willing to research & develop user-friendly AI software that people want to use!
 * 🧑🏻‍💻 Currently open for AI/ML research engineer, seeking a position in graduate position where I can develop my knowledge of Artificial Intelligence and Machine Learning.
 * 📨 Feel free to reach me! : idbluefish@gmail.com
 
@@ -26,9 +26,9 @@
 | 💻 Instructor           | 2017, 2018        | Hantor coding club (C, JAVA, Data Structure, Algorithms) |
 | 💻 Internship           | 2017.07 ~ 2017.08 | Fintech developter in SNAT |
 | 📖 ICLR Workshop        | 2021 | [CLAD](https://arxiv.org/pdf/2104.09793.pdf), [repo](https://github.com/JuneKyu/CLAD)|
-| 📖 TCP KIISE journal    | 2021 | [(Ko)GRAB-BERT](), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
-| 📖 ICAART               | 2021 | [CPC-Agent](), [private]()|
-| 📖 KCC                  | 2021 | [best_paper](), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
+| 📖 TCP KIISE journal    | 2021 | [(Ko)GRAB-BERT](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10528632&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
+| 📖 ICAART               | 2021 | [CPC-Agent](https://www.scitepress.org/Papers/2021/103853/103853.pdf), [🔒private]()|
+| 📖 KCC                  | 2021 | [best_paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874584&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
 | 📖 KINGPC               | 2021 | [ad_model](), [-]|
 | 📖 NLE journal          | 2020 | (revision in progress), [repo](https://github.com/JuneKyu/ReDoc)|
 | 🎯 Graduate Project     | 2018 | [Free-period Activity Matching Platform for College Students](https://github.com/JuneKyu/FreePeriod)|
