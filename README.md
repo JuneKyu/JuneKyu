@@ -18,23 +18,32 @@
 </p>
 
 ### 💻 Work Experiences
-
-Ajou University Medical Center | AI Research Engineer | 2021.04 ~ present | Bio-Data Engineer Government Training Project Member |
--------------------------
-LaMDA laboratory               | AI Research Engineer | 2019.03 ~ 2021.02 | Master Student in Ajou University
--------------------------
-LaMDA laboratory               | Internship           | 2018.03 ~ 2019.02 | Undergraduage Student in Ajou University
--------------------------
-SNAT                           | Internship           | 2017.07 ~ 2017.08 | Fintech developter
--------------------------
-Hantor                         | Director of Academic Affairs | 2017 ~ 2018 | Instructor of C, JAVA, Data Structure, Algorithms
+| Organization                   | Role of Work         | Duration          | Descriptions                          |
+|:------------------------------:|:--------------------:|:-----------------:|:-------------------------------------:|
+| Ajou University Medical Center | AI Research Engineer | 2021.04 ~ present | Bio-Data Engineer Government Training Project Member |
+| LaMDA laboratory               | AI Research Engineer | 2019.03 ~ 2021.02 | Master Student in Ajou University|
+| LaMDA laboratory               | Internship           | 2018.03 ~ 2019.02 | Undergraduage Student in Ajou University|
+| SNAT                           | Internship           | 2017.07 ~ 2017.08 | Fintech developter|
+| Hantor SW club of Ajou         | Director of Academic Affairs | 2017 ~ 2018 | Instructor of C, JAVA, Data Structure, Algorithms|
 
 ### 🏫 Educations
+| University     | Degree   | Duration          | Major                                          |
+|:--------------:|:--------:|:-----------------:|:----------------------------------------------:|
+|Ajou University | Master   | 2019.03 ~ 2021.02 | Artificial Intelligence, Advisor: Kyung-Ah Sohn|
+|Ajou University | Bachelor | 2013.03 ~ 2019.02 | Software|
 
-Ajou University | Master's Degree   | 2019.03 ~ 2021.02 | Artificial Intelligence Major, Advisor: Kyung-Ah Sohn
--------------------------
-Ajou University | Bachelor's Degree | 2013.03 ~ 2019.02 | Software Major
+### 📖 Publications
+| Conference    | Feild                              | Year | Paper                                        | Repository |
+|:-------------:|:----------------------------------:|:----:|:--------------------------------------------:|:----------:|
+| ICLR Workshop | Vision, Anomaly Detection          | 2021 | [CLAD](https://arxiv.org/pdf/2104.09793.pdf) | [repo]()|
+| TCP KIISE     | NLP, Sentiment Analysis, BERT, Graph-ranking | 2021 | [(Ko)GRAB-BERT]() | [repo]()|
+| ICAART        | NLP, Dialogue(Chatbot), Persona    | 2021 | [CPC-Agent]() | [repo]()|
+| KCC           | NLP, Sentiment Analysis, KoBERT    | 2021 | [best_paper]() | [repo]()|
+| KINGPC        | CPS, Anomaly Detection, Clustering | 2021 | [ad_model]() | [-]|
+| NLE Cambridge | NLP, Vision, LSTM, GAN, Generation | 2020 | (revision in progress) | [repo]()|
 
-### 📖 Publications and Projects
-ICLR Workshop | Vision, Anomaly Detection | 2021 | 
-
+### 🎯 Projects
+| Type | Content | Repository |
+|:-------------:|:----------------------------------:|:----:|
+| Matching Platform | Free-period Activity Matching Platform for College Students | [repo]()|
+| Construction Management | Multi-Company Construction Flaw Management Voice Recognition System | [repo]()|
