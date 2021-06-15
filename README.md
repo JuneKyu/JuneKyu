@@ -12,25 +12,24 @@
 <p>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junekyu&cache=c">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluefishjun&cache=c">
 </p>
 
 ### Experience
 
-| Organization                   | Role                 | Duration          | Descriptions                          |
-|:------------------------------:|:--------------------:|:-----------------:|:-------------------------------------:|
-| 💻 Ajou University Medical Center | AI Research Engineer | 2021.04 ~ present | Bio-Data Engineer Government Training Project Member |
-| 💻 LaMDA laboratory               | AI Research Engineer | 2019.03 ~ 2021.02 | Master Student in Ajou University|
-| 💻 LaMDA laboratory               | Internship           | 2018.03 ~ 2019.02 | Undergraduage Student in Ajou University|
-| 💻 SNAT                           | Internship           | 2017.07 ~ 2017.08 | Fintech developter|
-| 💻 Hantor SW club of Ajou         | Director of Academic Affairs | 2017 ~ 2018 | Instructor of C, JAVA, Data Structure, Algorithms|
-| 🏫 Ajou University                | Master   | 2019.03 ~ 2021.02 | Artificial Intelligence, Advisor: Kyung-Ah Sohn|
-| 🏫 Ajou University                | Bachelor | 2013.03 ~ 2019.02 | Software|
-| 📖 ICLR Workshop | Vision, Anomaly Detection          | 2021 | [CLAD](https://arxiv.org/pdf/2104.09793.pdf), [repo]()|
-| 📖 TCP KIISE     | NLP, Sentiment Analysis, BERT, Graph-ranking | 2021 | [(Ko)GRAB-BERT](), [repo]()|
-| 📖 ICAART        | NLP, Dialogue(Chatbot), Persona    | 2021 | [CPC-Agent](), [repo]()|
-| KCC           | NLP, Sentiment Analysis, KoBERT    | 2021 | [best_paper](, [repo]()|
-| KINGPC        | CPS, Anomaly Detection, Clustering | 2021 | [ad_model](), [-]|
-| NLE Cambridge | NLP, Vision, LSTM, GAN, Generation | 2020 | (revision in progress), [repo]()|
-| 🎯 Ajou SW Contest | Free-period Activity Matching Platform for College Students | 2018 | [repo]()|
-| 🎯 Ajou SW Contest | Multi-Company Construction Flaw Management Voice Recognition System | 2018 |[repo]()|
+| Activity                   | Duration          | Descriptions                                              |
+|:-----------------------:|:-----------------:|:---------------------------------------------------------:|
+| 💻 Internship           | 2021.04 ~ present | Bio-Data Engineer Training Program in Ajou Medical Center |
+| 🏫 Master's Degree      | 2019.03 ~ 2021.02 | LaMDA Lab in Ajou University AI major|
+| 💻 Internship           | 2018.03 ~ 2019.02 | LaMDA Lab in Ajou University |
+| 🏫 Bachelor's Degree    | 2013.03 ~ 2019.02 | Software major |
+| 💻 Instructor           | 2017, 2018        | Hantor coding club (C, JAVA, Data Structure, Algorithms) |
+| 💻 Internship           | 2017.07 ~ 2017.08 | Fintech developter in SNAT |
+| 📖 ICLR Workshop        | 2021 | [CLAD](https://arxiv.org/pdf/2104.09793.pdf), [repo](https://github.com/JuneKyu/CLAD)|
+| 📖 TCP KIISE journal    | 2021 | [(Ko)GRAB-BERT](), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
+| 📖 ICAART               | 2021 | [CPC-Agent](), [private]()|
+| 📖 KCC                  | 2021 | [best_paper](), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
+| 📖 KINGPC               | 2021 | [ad_model](), [-]|
+| 📖 NLE journal          | 2020 | (revision in progress), [repo](https://github.com/JuneKyu/ReDoc)|
+| 🎯 Graduate Project     | 2018 | [Free-period Activity Matching Platform for College Students](https://github.com/JuneKyu/FreePeriod)|
+| 🎯 Android Project      | 2018 | [Multi-Company Construction Flaw Management Voice Recognition System](https://github.com/JuneKyu/ConstructionFlawManagement)|
