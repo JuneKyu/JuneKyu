@@ -23,8 +23,8 @@
 | 📖 KCC                  | 2021 | paper: [best_paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874584&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
 | 📖 KINGPC               | 2021 | paper: [ad_model](), [-]|
 | 📖 NLE journal          | 2020 | paper: (revision in progress), [repo](https://github.com/JuneKyu/ReDoc)|
-| 🎯 Graduate Project     | 2018 | paper: [Free-period Activity Matching Platform for College Students](https://github.com/JuneKyu/FreePeriod)|
-| 🎯 Android Project      | 2018 | paper: [Multi-Company Construction Flaw Management Voice Recognition System](https://github.com/JuneKyu/ConstructionFlawManagement)|
+| 🎯 Graduate Project     | 2018 | repo: [Free-period Activity Matching Platform for College Students](https://github.com/JuneKyu/FreePeriod)|
+| 🎯 Android Project      | 2018 | repo: [Multi-Company Construction Flaw Management Voice Recognition System](https://github.com/JuneKyu/ConstructionFlawManagement)|
 
 <hr>
 
