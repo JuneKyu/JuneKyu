@@ -65,7 +65,7 @@
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=junekyu&show_icons=true" height=160/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160> -->
 <p>
 
 <p align="center">
