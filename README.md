@@ -3,7 +3,7 @@
 * 👋 Hello, world!
 * 🤪 I'm JuneKyu Park, and I am eager to research & develop user-friendly AI software that people want to use.
 * 🧑🏻‍💻 Currently working at SpuerbAI as Solution Engineer.
-* 📨 Feel free to reach me! : <a href="mailto:idbluefish@gmail.com" target="_blank"><img src="https://img.shields.io/badge/idbluefish@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+* 📨 Feel free to reach me! : <a href="mailto:jkpark@superb-ai.com" target="_blank"><img src="https://img.shields.io/badge/idbluefish@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <hr>
 
