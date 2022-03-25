@@ -15,7 +15,7 @@
 | 💻 Internship           | 2021.04 ~ 2021.06 | Bio-Data Engineer Training Program in Ajou Medical Center |
 | 🏫 Master's Degree      | 2019.03 ~ 2021.02 | LaMDA Lab in Ajou University AI major|
 | 💻 Internship           | 2018.03 ~ 2019.02 | LaMDA Lab in Ajou University |
-| 🏫 Bachelor's Degree    | 2013.03 ~ 2019.02 | Software major |
+| 🏫 Bachelor's Degree    | 2013.03 ~ 2019.02 | Software major from Ajou University |
 | 💻 Instructor           | 2017, 2018        | Hantor coding club (C, JAVA, Data Structure, Algorithms) |
 | 💻 Internship           | 2017.07 ~ 2017.08 | Fintech developer in SNAT |
 | 📖 ICLR Workshop        | 2021 | paper: [CLAD](https://arxiv.org/pdf/2104.09793.pdf), [repo](https://github.com/JuneKyu/CLAD)|
