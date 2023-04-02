@@ -58,16 +58,3 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 </p>
-
-<hr>
-
-### 📌 Status
-
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junekyu&show_icons=true" height=160/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhcsky&layout=compact" height=160> -->
-<p>
-
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bluefishjun&cache=c">
-</p>
