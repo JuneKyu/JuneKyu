@@ -1,5 +1,5 @@
 ## 😋 Coding for a Better World 😋 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhcsky%2Fhit-counter&count_bg=%23DB5CE9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 * 👋 Hello, world!
 * 🤪 I'm JuneKyu Park, and I am eager to research & develop user-friendly AI software that people want to use.
 * 🧑🏻‍💻 Currently working at Superb-AI as Solutions Engineer.
