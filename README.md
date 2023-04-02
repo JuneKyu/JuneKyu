@@ -13,7 +13,7 @@
 | Activity                | Duration          | Descriptions                                              |
 |:-----------------------:|:-----------------:|:---------------------------------------------------------:|
 | 🏢 Superb-AI            | 2021.07 ~ present | Solutions Engineer |
-| 💻 Internship           | 2021.04 ~ 2021.06 | Bio-Data Engineer Training Program in Ajou Medical Center |
+| ⏳ Part-time            | 2021.04 ~ 2021.06 | Bio-Data Engineer Training Program in Ajou Medical Center |
 | 🏫 Master's Degree      | 2019.03 ~ 2021.02 | LaMDA Lab in Ajou University AI major|
 | 💻 Internship           | 2018.03 ~ 2019.02 | LaMDA Lab in Ajou University |
 | 🏫 Bachelor's Degree    | 2013.03 ~ 2019.02 | Software major from Ajou University |
