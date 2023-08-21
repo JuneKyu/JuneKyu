@@ -2,7 +2,7 @@
 
 * 👋 Hello, world!
 * 🤪 I'm JuneKyu Park, and I am eager to research & develop MLOps pipelines for AI services.
-* 🧑🏻‍💻 Currently working at Superb-AI as Solutions Engineer.
+* 🧑🏻‍💻 Currently working at KRAFTON as Deep Learning Engineer.
 * 🔥 I am a fast learner, and aim to be a generalist.
 * 📨 Feel free to reach me! : <a href="mailto:jkpark@superb-ai.com" target="_blank"><img src="https://img.shields.io/badge/idbluefish@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
