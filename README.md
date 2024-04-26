@@ -20,6 +20,7 @@
 | 🏫 Bachelor's Degree    | 2013.03 ~ 2019.02 | Software major from Ajou University |
 | 💻 Instructor           | 2017, 2018        | Hantor coding club (C, JAVA, Data Structure, Algorithms) |
 | 💻 Internship           | 2017.07 ~ 2017.08 | Fintech developer in SNAT |
+| 📖 EACL                 | 2023 | paper: [OOD detection](https://aclanthology.org/2023.findings-eacl.76/), - |
 | 📖 ICLR Workshop        | 2021 | paper: [CLAD](https://arxiv.org/pdf/2104.09793.pdf), [repo](https://github.com/JuneKyu/CLAD)|
 | 📖 TCP KIISE journal    | 2021 | paper: [(Ko)GRAB-BERT](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10528632&mark=0&useDate=&bookmarkCnt=1&ipRange=N&accessgl=Y&language=ko_KR), [repo](https://github.com/JuneKyu/GRAB-KoBERT)|
 | 📖 ICAART               | 2021 | paper: [CPC-Agent](https://www.scitepress.org/Papers/2021/103853/103853.pdf), [🔒private]()|
